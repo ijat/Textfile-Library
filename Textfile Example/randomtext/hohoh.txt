@@ -1,9 +1,0 @@
-This is te/st
-is
-hohoho
-hehehehe
-lololo
-popopop
-Value=This
-What=Nothing
-Why=Idunno
