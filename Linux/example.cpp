@@ -1,3 +1,6 @@
+// Compile with 'g++ -std=C++11 example.cpp'
+// Make sure g++ version is 4.9.x
+
 #include <iostream>
 #include "src/textfile.h"
 
